@@ -1,0 +1,11 @@
+{
+  "name": "@miniapphub/core",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Ядро оболочки MiniAppHub: рантайм, мост API, хранилище, SDK",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+{
+  "launcher": "miniapphub.home",
+  "launcherUrl": "https://miniapphub.github.io/app-miniapphub-home/",
+  "catalogUrl": "https://miniapphub.github.io/catalog.json",
+  "version": "0.1.0",
+  "platform": "web"
+}
